@@ -176,6 +176,11 @@ h1{
 }
 ```
 ## OUTPUT:
+### Server output:
+![Screenshot from 2023-12-18 21-58-15](https://github.com/Nijeesh-bit/standard-calculator/assets/89188014/13dfe549-e0ae-4a54-b9b3-4d9ab1c2a306)
+
+### Client output:
+![Screenshot from 2023-12-18 21-59-28](https://github.com/Nijeesh-bit/standard-calculator/assets/89188014/26dd03ca-3639-490a-b409-b0ad36d320d2)
 
 ## Result:
-
+The program for designing a simple calculator using JavaScript is executed successfully.
